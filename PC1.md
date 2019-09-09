@@ -1,8 +1,12 @@
-# Objetivos
-O objetivo principal do experimento é criar um vórtice sobre uma superfície aquosa e, a partir disso, descrever os motivos pelos quais esse evento ocorre, suas consequências e suas ocorrências na Terra.
+# Ponto de controle 1
 
-# Escopo do experimento 
-As ánalises do experimento, em sua maioria, serão feitas através de pesquisas bibliográficas de forma a tentar demonstrar o efeito da vorticidade.
+## Integrantes
+Geordana Martins Bento 17/0034569
+Allecsander Lélis Silva 17/0028348
+Gabriel Familiar Amorim da Silva 17/0069273
 
-# Requisitos de solução
+## Tema
+Vorticidade
 
+## Objetivos 
+Um vórtice é um escamento giratório onde as linhas de corrente apresentam um padrão circular ou espiral com movimentos espirais em torno do centro de rotação. Partindo desta premissa, o objetivo principal do experimento é criar um vórtice sobre uma superfície aquosa e, a partir disso, descrever os motivos pelos quais esse evento ocorre, suas consequências e suas ocorrências na Terra.
